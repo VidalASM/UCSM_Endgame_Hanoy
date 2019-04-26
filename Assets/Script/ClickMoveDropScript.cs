@@ -44,6 +44,8 @@ public class ClickMoveDropScript : MonoBehaviour {
         moveableObjectGrabbled = moTransform != null;
         mousePosMarket.gameObject.SetActive(moveableObjectGrabbled);
 
+		//FirebaseAnalytic.Instance().logEvent();
+
         if(moveableObjectGrabbled)
         {
             TraceMousePosRelativeToGround();

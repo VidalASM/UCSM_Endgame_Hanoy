@@ -1,0 +1,410 @@
+<aars>
+  <explodeData>
+    <aar>com.google.firebase.firebase-measurement-connector-17.0.1</aar>
+    <modificationTime>2019-04-25T22:49:43.3548695-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-17.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-iid-interop-16.0.1</aar>
+    <modificationTime>2019-04-25T22:49:43.3498831-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-16.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-iid-17.1.2</aar>
+    <modificationTime>2019-04-25T22:49:43.3458942-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-iid-17.1.2.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-core-16.0.8</aar>
+    <modificationTime>2019-04-25T22:49:43.3409050-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-core-16.0.8.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-common-16.1.0</aar>
+    <modificationTime>2019-04-25T22:49:43.3369157-05:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets\Plugins\Android\com.google.firebase.firebase-common-16.1.0</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-auth-unity-5.7.0</aar>
+    <modificationTime>2019-04-25T22:49:43.3309660-05:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets\Plugins\Android\com.google.firebase.firebase-auth-unity-5.7.0</path>
+    <availableAbis>armeabi-v7a,x86</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-auth-interop-16.0.1</aar>
+    <modificationTime>2019-04-25T22:49:43.3269451-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-16.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-auth-16.2.1</aar>
+    <modificationTime>2019-04-25T22:49:43.3209602-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-auth-16.2.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-app-unity-5.7.0</aar>
+    <modificationTime>2019-04-25T22:49:43.3080247-05:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets\Plugins\Android\com.google.firebase.firebase-app-unity-5.7.0</path>
+    <availableAbis>armeabi-v7a,x86</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-analytics-unity-5.7.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2980203-05:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets\Plugins\Android\com.google.firebase.firebase-analytics-unity-5.7.0</path>
+    <availableAbis>armeabi-v7a,x86</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.firebase.firebase-analytics-16.4.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2930339-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.firebase.firebase-analytics-16.4.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.auto.value.auto-value-annotations-1.6.3</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.auto.value.auto-value-annotations-1.6.3.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-tasks-16.0.1</aar>
+    <modificationTime>2019-04-25T22:49:43.2840577-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-tasks-16.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-stats-16.0.1</aar>
+    <modificationTime>2019-04-25T22:49:43.2790712-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-stats-16.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-measurement-sdk-api-16.4.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2740848-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-api-16.4.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-measurement-sdk-16.4.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2690979-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-16.4.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-measurement-impl-16.4.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2631134-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-impl-16.4.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-measurement-base-16.4.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2571317-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-16.4.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-measurement-api-16.4.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2511454-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-api-16.4.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-measurement-16.4.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2441652-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-measurement-16.4.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-flags-16.0.1</aar>
+    <modificationTime>2019-04-25T22:49:43.2381812-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-flags-16.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-16.2.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2312307-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-16.2.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-base-16.0.1</aar>
+    <modificationTime>2019-04-25T22:49:43.2242584-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-base-16.0.1.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-identifier-16.0.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2172704-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-16.0.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-v4-26.1.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2122506-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-v4-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-media-compat-26.1.0</aar>
+    <modificationTime>2019-04-25T22:49:43.2052690-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-media-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-fragment-26.1.0</aar>
+    <modificationTime>2019-04-25T22:49:43.1982888-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-fragment-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-utils-26.1.0</aar>
+    <modificationTime>2019-04-25T22:49:43.1923349-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-utils-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-ui-26.1.0</aar>
+    <modificationTime>2019-04-25T22:49:43.1863199-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-ui-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-compat-26.1.0</aar>
+    <modificationTime>2019-04-25T22:49:43.1783713-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-compat-26.1.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-annotations-26.1.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-annotations-26.1.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.runtime-1.0.0</aar>
+    <modificationTime>2019-04-25T22:49:43.1624149-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.runtime-1.0.0.aar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.lifecycle.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/android.arch.lifecycle.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>android.arch.core.common-1.0.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.android </bundleId>
+    <path>Assets/Plugins/Android/android.arch.core.common-1.0.0.jar</path>
+    <availableAbis>universal</availableAbis>
+    <targetAbi>armeabi-v7a,x86</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
