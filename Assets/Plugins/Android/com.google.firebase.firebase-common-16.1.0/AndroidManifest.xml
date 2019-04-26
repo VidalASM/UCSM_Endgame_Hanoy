@@ -4,6 +4,6 @@
   <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
   <!-- <uses-sdk android:minSdkVersion="14"/> -->
   <application>
-    <provider android:name="com.google.firebase.provider.FirebaseInitProvider" android:authorities="com.firebase.android .firebaseinitprovider" android:exported="false" android:initOrder="100" />
+    <provider android:name="com.google.firebase.provider.FirebaseInitProvider" android:authorities="com.firebase.android.firebaseinitprovider" android:exported="false" android:initOrder="100" />
   </application>
 </manifest>

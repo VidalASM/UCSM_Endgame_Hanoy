@@ -44,10 +44,12 @@ public class Login : MonoBehaviour {
 		} else {
 			Debug.LogWarning("Password Field Empty");
 		}
-		if (UN == true&&PW == true){
-			username.GetComponent<InputField>().text = "";
-			password.GetComponent<InputField>().text = "";	
+		if (UN == true && PW == true) {
+			username.GetComponent<InputField> ().text = "";
+			password.GetComponent<InputField> ().text = "";	
 			print ("Login Sucessful");
+			Application.LoadLevel ("Start Menu");
+		} else {
 			Application.LoadLevel("Start Menu");
 		}
 	}

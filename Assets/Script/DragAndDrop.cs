@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DragAndDrop : MonoBehaviour {
 
@@ -9,14 +10,34 @@ public class DragAndDrop : MonoBehaviour {
     public Vector3 screenSpace;
     public Vector3 offset;
 
+	private float starttime, endtime;
+	int score = 0;
+	public Text textshowed = null;
+	public void changeWord (string word) {
+		textshowed.text = word;
+	}
+
     // Use this for initialization
     void Start () {
-		
+		starttime = 0f;
+		endtime = 0f;
 	}
 	
 	// Update is called once per frame
 	void Update () {
         // Debug.Log(_mouseState);
+		if (Input.GetMouseButtonDown (0))
+			starttime = Time.time;
+		if (Input.GetMouseButtonUp (0))
+			endtime = Time.time;
+		if (endtime - starttime > 0.5f) {
+			score++;
+			Debug.Log ("Long click");
+			changeWord (score.ToString());
+			starttime = 0f;
+			endtime = 0f;
+		}
+
         if (Input.GetMouseButtonDown(0))
         {
 

@@ -598,7 +598,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 450026210}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e76e8ea20740df4ea502980abcc3ab1, type: 3}
+  m_Script: {fileID: 11500000, guid: 009d30c74e85d5f45b1c8b823a026e5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mainMenu: {fileID: 283951618}
@@ -2002,7 +2002,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Game
+          m_StringArgument: Hanoi
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,

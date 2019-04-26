@@ -311,7 +311,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Game name
+  m_Text: Hanoy
 --- !u!222 &12872355
 CanvasRenderer:
   m_ObjectHideFlags: 0
